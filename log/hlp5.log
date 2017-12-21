@@ -1,0 +1,38 @@
+21-12-2017 11:38:10.158 INFO  SerialService:70 - Em-Marine[565A] 
+21-12-2017 11:38:10.186 INFO  ResultWriter:38 - Save data {Em-Marine[565A] } to file "res.txt" is finished.
+21-12-2017 11:38:10.187 INFO  SerialService:70 - 013,64954
+
+21-12-2017 11:38:10.197 INFO  ResultWriter:38 - Save data {013,64954
+} to file "res.txt" is finished.
+21-12-2017 11:38:10.827 INFO  SerialService:70 - N
+21-12-2017 11:38:10.846 INFO  ResultWriter:38 - Save data {N} to file "res.txt" is finished.
+21-12-2017 11:38:10.847 INFO  SerialService:70 - o card
+
+21-12-2017 11:38:10.859 INFO  ResultWriter:38 - Save data {o card
+} to file "res.txt" is finished.
+21-12-2017 11:38:37.407 INFO  SerialService:70 - Em-Mari
+21-12-2017 11:38:37.420 INFO  ResultWriter:38 - Save data {Em-Mari} to file "res.txt" is finished.
+21-12-2017 11:38:37.432 INFO  SerialService:70 - ne[565A] 013,64
+21-12-2017 11:38:37.444 INFO  ResultWriter:38 - Save data {ne[565A] 013,64} to file "res.txt" is finished.
+21-12-2017 11:38:37.445 INFO  SerialService:70 - 954
+
+21-12-2017 11:38:37.458 INFO  ResultWriter:38 - Save data {954
+} to file "res.txt" is finished.
+21-12-2017 11:38:38.014 INFO  SerialService:70 - No card
+
+21-12-2017 11:38:38.027 INFO  ResultWriter:38 - Save data {No card
+} to file "res.txt" is finished.
+21-12-2017 11:39:00.795 INFO  SerialService:70 - Em-Mari
+21-12-2017 11:39:00.808 INFO  ResultWriter:38 - Save data {Em-Mari} to file "res.txt" is finished.
+21-12-2017 11:39:00.809 INFO  SerialService:70 - ne[565A] 013,64
+21-12-2017 11:39:00.817 INFO  ResultWriter:38 - Save data {ne[565A] 013,64} to file "res.txt" is finished.
+21-12-2017 11:39:00.825 INFO  SerialService:70 - 954
+
+21-12-2017 11:39:00.837 INFO  ResultWriter:38 - Save data {954
+} to file "res.txt" is finished.
+21-12-2017 11:39:01.481 INFO  SerialService:70 - No card
+21-12-2017 11:39:01.496 INFO  ResultWriter:38 - Save data {No card} to file "res.txt" is finished.
+21-12-2017 11:39:01.497 INFO  SerialService:70 - 
+
+21-12-2017 11:39:01.510 INFO  ResultWriter:38 - Save data {
+} to file "res.txt" is finished.
